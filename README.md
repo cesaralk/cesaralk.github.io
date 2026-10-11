@@ -1,3 +1,6 @@
+## 🌐 Live Portfolio
+
+[View my Developer Portfolio](https://cesaralk.github.io/)
 # Cesar Al Khatib — Developer Portfolio
 
 A responsive, GitHub Pages-ready developer portfolio built with HTML, CSS, and JavaScript.
